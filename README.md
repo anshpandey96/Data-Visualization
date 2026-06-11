@@ -23,7 +23,6 @@ The project covers **data cleaning, exploratory data analysis (EDA), and profess
   - Histogram (Profit Analysis)  
   - Heatmap (Correlation Matrix)  
   - Scatter Plot (Sales vs Profit)  
-
 ---
 
 ## 📁 Project Structure
@@ -36,14 +35,11 @@ Data_Visualization_Project/
 ├── report/         # Project_Report.md
 └── README.md
 
-
-
 ---
 
 ## 📊 Dashboard Preview
 
 <img width="1454" height="973" alt="Screenshot 2026-06-11 141248" src="https://github.com/user-attachments/assets/96e78d99-8917-40ad-acee-5b86ab2c1884" />
-
 
 ---
 
@@ -51,17 +47,14 @@ Data_Visualization_Project/
 - **Sales by Region**  
   <img width="1577" height="918" alt="Screenshot 2026-06-11 141438" src="https://github.com/user-attachments/assets/f4d8a2cd-d3fa-4211-a0eb-648aa1323c67" />
 
-
 - **Monthly Sales Trend**  
-  ![Monthly Sales Trend](visuals/monthly_sales_trend.png)
+  <img width="1559" height="905" alt="Screenshot 2026-06-11 141354" src="https://github.com/user-attachments/assets/043d83cc-f41c-4170-8fba-019610332255" />
 
 - **Category Distribution**  
   <img width="1344" height="792" alt="Screenshot 2026-06-11 141038" src="https://github.com/user-attachments/assets/9e87829c-f822-492c-bee9-702b9c42074a" />
 
-
 - **Correlation Heatmap**  
 <img width="1587" height="921" alt="Screenshot 2026-06-11 141315" src="https://github.com/user-attachments/assets/e4d309c0-da8e-4942-98fe-d4cbe97db70c" />
-  
 
 ---
 
