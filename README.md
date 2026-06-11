@@ -44,21 +44,27 @@ Data_Visualization_Project/
 ---
 
 ## 📈 Sample Visualizations
-- **Sales by Region**  
+
+- **Sales by Region**
+- 
   <img width="1577" height="918" alt="Screenshot 2026-06-11 141438" src="https://github.com/user-attachments/assets/f4d8a2cd-d3fa-4211-a0eb-648aa1323c67" />
 
-- **Monthly Sales Trend**  
+- **Monthly Sales Trend**
+- 
   <img width="1559" height="905" alt="Screenshot 2026-06-11 141354" src="https://github.com/user-attachments/assets/043d83cc-f41c-4170-8fba-019610332255" />
 
-- **Category Distribution**  
+- **Category Distribution**
+- 
   <img width="1344" height="792" alt="Screenshot 2026-06-11 141038" src="https://github.com/user-attachments/assets/9e87829c-f822-492c-bee9-702b9c42074a" />
 
-- **Correlation Heatmap**  
+- **Correlation Heatmap**
+
 <img width="1587" height="921" alt="Screenshot 2026-06-11 141315" src="https://github.com/user-attachments/assets/e4d309c0-da8e-4942-98fe-d4cbe97db70c" />
 
 ---
 
 ## 🚀 Key Insights
+
 - Identified top-performing regions and categories  
 - Revealed best-selling products  
 - Analyzed monthly sales trends and profit distribution  
