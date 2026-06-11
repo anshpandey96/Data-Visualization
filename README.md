@@ -4,6 +4,8 @@ This project showcases **end-to-end data analytics and visualization skills** us
 A synthetic dataset of 1000+ sales records was generated to simulate real-world business scenarios.  
 The project covers **data cleaning, exploratory data analysis (EDA), and professional visualizations** using Pandas, NumPy, Matplotlib, and Seaborn.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5e9f1992-5b07-4f20-b678-bab1d002a339" />
+
 ---
 
 ## ✨ Features
@@ -39,7 +41,8 @@ Data_Visualization_Project/
 ---
 
 ## 📊 Dashboard Preview
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5e9f1992-5b07-4f20-b678-bab1d002a339" />
+
+<img width="1454" height="973" alt="Screenshot 2026-06-11 141248" src="https://github.com/user-attachments/assets/96e78d99-8917-40ad-acee-5b86ab2c1884" />
 
 
 ---
